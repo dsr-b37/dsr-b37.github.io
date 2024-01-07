@@ -71,7 +71,7 @@ I recommend "An Introduction to Statistical Learning with Applications in Python
 	   - [Why Regularization Reduces Overfitting](https://www.youtube.com/watch?v=NyG-7nRpsW8&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=6)
 	   - [Dropout Regularization](https://youtu.be/D8PJAL-MZv8?si=Les-ufOpnxcoe6aX)
 10. **Random Forests**:
-   - [Random Forests Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+   - [Random Forests Playlist](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 11. **Bagging and Boosting**:
 	- [Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
 	- [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
